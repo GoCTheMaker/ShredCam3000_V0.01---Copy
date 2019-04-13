@@ -1,0 +1,1 @@
+"./ADC.obj" "./bluetooth.obj" "./flash.obj" "./main.obj" "./spi.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./usb_uart.obj" "../msp432p401r.cmd" -llibc.a 
